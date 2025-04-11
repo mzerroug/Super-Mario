@@ -1,6 +1,4 @@
-Here's a more detailed **README.md** template for the **Super Mario** game, focusing on the gameplay, installation, and other aspects:
 
----
 
 # Super Mario Game 🎮
 
@@ -63,6 +61,4 @@ This project is a simple implementation of the classic **Super Mario** game usin
 
 This project is licensed under the **MIT License**.
 
----
 
-This extended README covers more details about the gameplay, installation, and running the game. You can modify it according to the specific features and instructions of your Super Mario project.
